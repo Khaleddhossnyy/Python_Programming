@@ -1,0 +1,8 @@
+Customer -khaled hosnsy - : has bought *30.00* Kilos of (tomatos) At 2022-11-20 21:00:23.274529
+Customer -khaled hosnsy - : has bought *20.00* Kilos of (Bananas) At 2022-11-20 21:01:17.160709
+Customer -khaled hosnsy - : has bought *10.00* Kilos of (Apples) At 2022-11-20 21:01:23.749088
+Customer -khaled hosnsy - : has bought *2.00* Kilos of (Apples) At 2022-11-20 21:01:32.538258
+Customer -khaled hosnsy - : has bought *2.00* Kilos of (Apples) At 2022-11-20 21:01:36.292027
+Customer -khaled hosnsy - : has bought *5.00* Kilos of (Cherry) At 2022-11-20 21:01:45.154222
+Customer -khaled hosnsy - : has bought *1.00* Kilos of (Apples) At 2022-11-20 21:02:24.064482
+Customer -Allaa elnagar- : has bought *12.00* Kilos of (Apples) At 2022-11-20 21:45:50.044625

@@ -1,0 +1,11 @@
+-------------------------------
+        ITI FATORA
+-------------------------------
+Item      Value       Quantity
+Apples | 600.000 LE | 12.000 Kilos
+Bananas | 0.000 LE | 0.000 Kilos
+Cherry | 0.000 LE | 0.000 Kilos
+tomatos | 0.000 LE | 0.000 Kilos
+Potatos | 0.000 LE | 0.000 Kilos
+
+Total of the order is : 600.000 LE
