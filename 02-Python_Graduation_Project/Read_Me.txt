@@ -1,1 +1,0 @@
-My python graduation project is a snake game built using pygame and i will upload the code as soon as it is finished 
